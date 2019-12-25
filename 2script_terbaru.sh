@@ -5,9 +5,9 @@ clear
 ulang="y"
 while [ $ulang = "y" ];
 do
-toilet "untuk username dan password sc 68 adalah username : Solo password : Player" | lolcat
+echo "untuk username dan password sc 68 adalah username : Solo password : Player" | lolcat
 figlet "5W WE" | lolcat
-echo "______________________by 5W WE"
+toilet "______________________by 5W WE"
   echo "(_= 1 -+] install red hawk"
   echo "[+- 2 =_# install sc 68"
   echo "(_= 5 -+] exit"
