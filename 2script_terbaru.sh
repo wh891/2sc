@@ -7,7 +7,7 @@ while [ $ulang = "y" ];
 do
 echo "untuk username dan password sc 68 adalah username : Solo password : Player" | lolcat
 figlet "5W WE" | lolcat
-echo "______________________dengan 5W KAMI" | lolcat
+echo "______________________by 5W WE" | lolcat
   echo "(_= 1 -+] pasang red hawk"
   echo "[+- 2 =_# install sc 68"
   echo "(_= 5 -+] exit"
